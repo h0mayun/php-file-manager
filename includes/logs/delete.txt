@@ -1,0 +1,20 @@
+[2012-02-27 08:04:51 PM] Folder: (logs) was deleted in C:/wamp/www/includes
+[12-02-28 08:25:37 PM] Folder: (yahoo-messenger-sdk-php-84647aa) was deleted in C:/wamp/www
+[12-03-01 01:02:15 PM] Folder: (uploadify-v2.1.4) was deleted in C:/wamp/www
+[12-03-01 01:13:03 PM] Folder: (phpfileuploader) was deleted in C:/wamp/www
+[12-03-01 01:22:03 PM] Folder: (SWFUpload v2.2.0.1 Samples) was deleted in C:/wamp/www
+[12-03-02 03:20:45 PM] Folder: (upload) was deleted in C:/wamp/www
+[12-03-02 03:21:23 PM] Folder: (Parsianua) was deleted in C:/wamp/www
+[12-03-03 07:42:56 AM] File: (test o moz.php) was deleted in C:/wamp/www/PROJECTS
+[12-03-12 09:46:28 PM] File: (t.php) was deleted in C:/wamp/www/PROJECTS
+[12-03-22 09:21:41 PM] File: (ae.php) was deleted in C:/wamp/www
+[12-04-21 08:32:26 AM] File: (multi_rank.php) was deleted in C:/wamp/www/onlinewebtool
+[12-05-01 04:38:23 PM] File: (aa.php) was deleted in C:/wamp/www
+[12-05-01 04:38:38 PM] File: (f.php) was deleted in C:/wamp/www
+[12-05-23 12:05:53 PM] File: (New File.php) was deleted in C:/wamp/www
+[12-05-23 05:04:41 PM] File: (DNS.php) was deleted in C:/wamp/www
+[12-06-28 12:59:13 PM] Folder: (mrpaolo-mootools30days-d19f95f) was deleted in C:/wamp/www
+[12-07-05 11:09:49 AM] File: (example-1.php) was deleted in C:/wamp/www/onlinewebtool
+[12-09-17 03:00:01 PM] File: (LcFZbTEQAm.jpg) was deleted in C:/wamp/www/up/uploads
+[12-09-17 03:00:08 PM] File: (EHyb1Y5i2g.jpg) was deleted in C:/wamp/www/up/uploads
+[12-09-17 03:00:13 PM] File: (2u5ZNOLHT1.jpg) was deleted in C:/wamp/www/up/uploads

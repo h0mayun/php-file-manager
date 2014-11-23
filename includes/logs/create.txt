@@ -1,0 +1,6 @@
+[12-03-06 04:24:19 PM] File: (New File.php) was created in C:/wamp/www/
+[12-03-22 09:19:42 PM] File: (New File.php) was created in C:/wamp/www/
+[12-05-23 12:05:45 PM] File: (New File.php) was created in C:/wamp/www/
+[12-05-31 09:28:48 AM] File: (New File.php) was created in C:/wamp/www/
+[12-06-22 07:37:07 PM] File: (New File.php) was created in C:/wamp/www/
+[12-09-03 07:16:49 AM] Folder: (New Folder) was created in C:/wamp/www/
